@@ -1,0 +1,29 @@
+<rss version="2.0">
+
+<channel>
+  <title>Principal</title>
+  <link>https://lamasyllamas.neocities.org</link>
+  <description>Página principal de la web. Recopilación de contenidos.</description>
+  <item>
+      <title>Curiosidades</title>
+      <link>https://lamasyllamas.neocities.org/curiosidades.html</link>
+      <description>Recopilación de curiosidades</description>
+  </item>
+  <item>
+  <title>Fotos_y_Videos</title>
+  <link>https://lamasyllamas.neocities.org/fotos_y_videos.html</link>
+  <description>Recopilación de fotos y vídeos de llamas</description>
+  </item>
+  <item>
+    <title>Chistes</title>
+  <link>https://lamasyllamas.neocities.org/chistes.html</link>
+  <description>Recopilación de chistes</description>
+  </item>
+  <item>
+    <title>Historia</title>
+  <link>https://lamasyllamas.neocities.org/historia.html</link>
+  <description>Breve recopilación de la historia de las llamas</description>
+  </item>
+</channel>
+
+</rss> 
